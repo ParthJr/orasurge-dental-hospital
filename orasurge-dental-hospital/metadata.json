@@ -1,0 +1,6 @@
+{
+  "name": "Orasurge Dental Hospital",
+  "description": "Futuristic digital healthcare website for Orasurge Dental Hospital in Kudasan, Gandhinagar, Gujarat. A new dimension of dental care with sub-millimeter surgical accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
